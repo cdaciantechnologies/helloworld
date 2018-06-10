@@ -64,5 +64,20 @@
   "CARDS_TITLE": "Social",
 
   "SEARCH_TITLE": "Search",
-  "SEARCH_PLACEHOLDER": "Search the items list, e.g. \"Donald Duck\""
+  "SEARCH_PLACEHOLDER": "Search the items list, e.g. \"Donald Duck\"",
+  "FOUND_ITEMS": "Found Items",
+  "ITEM":"Item",
+  "LOST":"Lost",
+   "FOUND":"Found",
+   "FOUND_ITEM_CREATE_TITLE":"New Found Item",
+   "WHAT_FOUND":"What do you found....",
+   "TELL_US_ABOUT_FOUND":"Tell us more about it....",
+   "YOUR_NAME":"Your Name",
+   "CONTACT_NUMBER":"Contact No",
+   "EMAIL_ID":"Email Id",
+   "IDENTIFY_YOUR_ITEM":"Identify your items with some specifics",
+   "SUBMIT_BUTTON":"Submit",
+   "ENQUIRY_BUTTON":"Enquiry",
+   "ENQUIRY_TITLE":"Enquiry Form"
+
 }

@@ -14,5 +14,13 @@
   <div class="item-detail" padding>
     <h2>{{item.name}}</h2>
     <p>{{item.about}}</p>
+    <ion-buttons padding >
+      <button ion-button (click)="enquireItem()"  strong>
+        <span color="primary" >
+          {{ 'ENQUIRY_BUTTON' | translate }}
+        </span>
+      </button>
+    </ion-buttons>
   </div>
+  
 </ion-content>
